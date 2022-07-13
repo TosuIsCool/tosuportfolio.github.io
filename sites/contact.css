@@ -1,0 +1,15 @@
+.texts{
+  animation: opacityani 2.5s;
+  font-size: 25px;
+}
+
+@keyframes opacityani { 
+    0% {
+      opacity: 0;
+    }
+  
+    100% {
+      opacity: 1;
+    }
+  }
+  

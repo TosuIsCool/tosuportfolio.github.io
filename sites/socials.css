@@ -1,0 +1,64 @@
+html,body{
+    margin: 0;
+    overflow-x: hidden;
+}
+
+.href1{
+    color: black;
+}
+
+.href2{
+    color: black;
+}
+
+.href3{
+    color: black;
+}
+
+.href4{
+    color: black;
+}
+
+.instagram{
+    position: relative;
+    cursor: pointer;
+    margin-top: 30px;
+    font-size: 10em;
+    animation: opacityani 4s;
+}
+
+.github{
+    position: relative;
+    cursor: pointer;
+    margin-top: 30px;
+    font-size: 10em;
+    animation: opacityani 4s;
+}
+
+.twitter{
+    position: relative;
+    cursor: pointer;
+    margin-top: 30px;
+    font-size: 10em;
+    animation: opacityani 4s;
+}
+
+.steam{
+    position: relative;
+    cursor: pointer;
+    margin-top: 30px;
+    font-size: 10em;
+    animation: opacityani 4s;
+}
+
+
+@keyframes opacityani { 
+    0% {
+      opacity: 0;
+    }
+  
+    100% {
+      opacity: 1;
+    }
+  }
+  
